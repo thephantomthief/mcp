@@ -70,10 +70,10 @@ NOTICE                                           @awslabs/mcp-admins
 /src/lambda-tool-mcp-server                      @awslabs/mcp-admins @awslabs/mcp-maintainers  @danilop @jsamuel1
 /src/mcp-lambda-handler                          @awslabs/mcp-admins @awslabs/mcp-maintainers  @mikegc-aws @Lukas-Xue
 /src/memcached-mcp-server                        @awslabs/mcp-admins @awslabs/mcp-maintainers  @seaofawareness
-/src/mysql-mcp-server                            @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz @thephantomthief
+/src/mysql-mcp-server                            @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz
 /src/nova-canvas-mcp-server                      @awslabs/mcp-admins @awslabs/mcp-maintainers  @theagenticguy
 /src/openapi-mcp-server                          @awslabs/mcp-admins @awslabs/mcp-maintainers  @scottschreckengaust @krokoko # @prajwalendra
-/src/postgres-mcp-server                         @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz
+/src/postgres-mcp-server                         @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz @thephantomthief
 /src/prometheus-mcp-server                       @awslabs/mcp-admins @awslabs/mcp-maintainers  @MohamedSherifAbdelsamiea
 /src/redshift-mcp-server                         @awslabs/mcp-admins @awslabs/mcp-maintainers  @grayhemp
 /src/s3-tables-mcp-server                        @awslabs/mcp-admins @awslabs/mcp-maintainers  @gsoundar @gregorywright @Kurtiscwright @hsingh574 @ananthaksr @okhomin @Zh111602
