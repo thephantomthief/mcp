@@ -70,7 +70,7 @@ NOTICE                                           @awslabs/mcp-admins
 /src/lambda-tool-mcp-server                      @awslabs/mcp-admins @awslabs/mcp-maintainers  @danilop @jsamuel1
 /src/mcp-lambda-handler                          @awslabs/mcp-admins @awslabs/mcp-maintainers  @mikegc-aws @Lukas-Xue
 /src/memcached-mcp-server                        @awslabs/mcp-admins @awslabs/mcp-maintainers  @seaofawareness
-/src/mysql-mcp-server                            @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz
+/src/mysql-mcp-server                            @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz @thephantomthief
 /src/nova-canvas-mcp-server                      @awslabs/mcp-admins @awslabs/mcp-maintainers  @theagenticguy
 /src/openapi-mcp-server                          @awslabs/mcp-admins @awslabs/mcp-maintainers  @scottschreckengaust @krokoko # @prajwalendra
 /src/postgres-mcp-server                         @awslabs/mcp-admins @awslabs/mcp-maintainers  @kennthhz
